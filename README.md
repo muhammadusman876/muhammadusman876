@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @muhammadusman876
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reactjs
+👋 Hi, I’m Usman Sameer Khan — a passionate AI and deep learning enthusiast dedicated to solving real-world problems with data-driven solutions.
 
+🚀 I specialize in developing robust deep learning models using Python and TensorFlow, applying transfer learning, and working on projects like image classification and automation.
 
-<!---
-muhammadusman876/muhammadusman876 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- I'm a computer science student who loves to code!!!
+💡 I’m constantly learning and exploring advancements in machine learning and AI to build impactful solutions.
+
+📫 Feel free to connect if you want to discuss AI projects, internships, or collaborations!
