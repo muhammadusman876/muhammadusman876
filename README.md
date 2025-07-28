@@ -28,7 +28,19 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Usman Sameer Khan — a passionate AI and deep learning enthusiast dedicated to solving real-world problems with data-driven solutions.<br><br>🚀 I specialize in developing robust deep learning models using Python and TensorFlow, applying transfer learning, and working on projects like image classification and automation.<br><br>💡 I’m constantly learning and exploring advancements in machine learning and AI to build impactful solutions.<br><br>📫 Feel free to connect if you want to discuss AI projects, internships, or collaborations!</p>
+I’m **Usman Sameer Khan**, a master's student in **Web Engineering** at **TU Chemnitz**, specializing in **Deep Learning**, **Generative AI**, and **Applied Machine Learning**.
+
+🔬 My academic and project work spans:
+- Building **LLM-based applications** using LangChain, FAISS, and Groq
+- Developing **image classification models** with TensorFlow and ResNet architectures
+- Contributing to **AI-driven cybersecurity tools** in Dockerized, full-stack environments
+
+📊 My current focus is on **RAG architectures**, **vector databases**, and **real-world applications of LLMs** in domains like energy policy, risk analysis, and automation.
+
+💼 I’m actively seeking **internships**, **working student positions**, or a **Master’s thesis** in **Generative AI**, **ML Engineering**, or **AI for Industry**.
+
+📫 Let’s connect if you're working on intelligent systems, applied AI, or innovative ML solutions — I’m always open to collaboration.
+
 
 ###
 
