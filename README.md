@@ -33,7 +33,6 @@ I’m **Usman Sameer Khan**, a master's student in **Web Engineering** at **TU C
 🔬 My academic and project work spans:
 - Building **LLM-based applications** using LangChain, FAISS, and Groq
 - Developing **image classification models** with TensorFlow and ResNet architectures
-- Contributing to **AI-driven cybersecurity tools** in Dockerized, full-stack environments
 
 📊 My current focus is on **RAG architectures**, **vector databases**, and **real-world applications of LLMs** in domains like energy policy, risk analysis, and automation.
 
