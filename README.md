@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqqT1R7f/pana.png" alt="pana" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/fr/clavier-mathematique'></a><br /></div>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqqT1R7f/pana.png" alt="pana" border="0"></a><br /></div>
 
 ###
 
