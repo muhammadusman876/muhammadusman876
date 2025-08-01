@@ -104,12 +104,11 @@ I'm **Usman Sameer Khan**, a **Master's student in Web Engineering** at **TU Che
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadusman876&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadusman876&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadusman876&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadusman876&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadusman876&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph"/>
 </div>
 
 ---
