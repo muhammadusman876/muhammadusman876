@@ -1,83 +1,146 @@
 <div align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqqT1R7f/pana.png" alt="pana" border="0"></a><br /></div>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="AI Developer" width="200"/>
+</div>
 
-###
+<h1 align="center">
+  <b>Usman Sameer Khan</b>
+</h1>
+
+<h3 align="center">
+  Master's Student in Web Engineering @ TU Chemnitz
+</h3>
+
+<h4 align="center">
+  Passionate about AI, Machine Learning & Full-Stack Development
+</h4>
 
 <div align="center">
-  <a href="www.linkedin.com/in/usman-sameer-khan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/usman-sameer-khan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="usmankhan87015@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:usmankhan87015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  
 </div>
 
-###
+---
+
+## 🚀 About Me
+
+I'm **Usman Sameer Khan**, a **Master's student in Web Engineering** at **TU Chemnitz** with a passion for **AI and Machine Learning**. Through my academic projects and self-directed learning, I'm building expertise in intelligent systems and modern web technologies.
+
+### 🎯 Currently Learning & Building
+
+- **Generative AI Applications** using LangChain, RAG architectures, and LLMs
+- **Deep Learning** with TensorFlow, Computer Vision, and Transfer Learning
+- **Full-Stack Development** combining React, FastAPI, and modern web technologies
+
+### 💼 What I'm Looking For
+
+🔍 **Actively seeking opportunities in:**
+
+- **Internships** in Generative AI/ML Engineering
+- **Working Student positions** (20hrs/week)
+- **Master's Thesis** collaborations in Applied AI
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammadusman876.muhammadusman876&"  />
+
+### **AI & Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **Web Development**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Data Science & Tools**
+
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### **Development Tools**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </div>
 
-###
+---
 
-<h1 align="center">Welcome to my GitHub profile! 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-I’m **Usman Sameer Khan**, a master's student in **Web Engineering** at **TU Chemnitz**, specializing in **Deep Learning**, **Generative AI**, and **Applied Machine Learning**.
-
-🔬 My academic and project work spans:
-- Building **LLM-based applications** using LangChain, FAISS, and Groq
-- Developing **image classification models** with TensorFlow and ResNet architectures
-
-📊 My current focus is on **RAG architectures**, **vector databases**, and **real-world applications of LLMs** in domains like energy policy, risk analysis, and automation.
-
-💼 I’m actively seeking **internships**, **working student positions**, or a **Master’s thesis** in **Generative AI**, **ML Engineering**, or **AI for Industry**.
-
-📫 Let’s connect if you're working on intelligent systems, applied AI, or innovative ML solutions — I’m always open to collaboration.
-
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 🎯 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadusman876&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=muhammadusman876&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" style="margin-left: 20px;" />
+  
+[![Renewable Energy Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=muhammadusman876&repo=renewable-analyzer&theme=dark&hide_border=true)](https://github.com/muhammadusman876/renewable-analyzer)
+[![Garbage Sorting ResNet](https://github-readme-stats.vercel.app/api/pin/?username=muhammadusman876&repo=garbage_sorting_germany_resnet&theme=dark&hide_border=true)](https://github.com/muhammadusman876/garbage_sorting_germany_resnet)
+
 </div>
 
-###
+### 🏆 Key Achievements
 
+- **🌱 RAG-Powered Solar Investment Platform** - Built with LangChain, FAISS, and Groq LLM
+- **🗂️ German Waste Classification Model** - 91% accuracy using ResNet50 and Transfer Learning
+- **📊 Renewable Energy Data Analysis** - Comprehensive spatio-temporal analysis of German energy trends
+- **🔒 AI-Powered Cybersecurity Platform** - OpenAI-integrated security assessment tool
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadusman876&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadusman876&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadusman876&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+**🎓 Master of Science in Web Engineering** | _TU Chemnitz_ | 2023-2026  
+**🎓 Bachelor of Science in Computer Science** | _Royal College of Arts, Science and Commerce_ | 2019-2022
+
+**📜 Recent Certifications:**
+
+- Data Science Bootcamp (Python, ML, DL, Visualization) - _Udemy 2025_
+- Front-End Web Development with React - _Coursera 2022_
+
+---
+
+## 🌍 Let's Connect!
+
+<div align="center">
+  
+**💬 Open to discussing:** Generative AI, RAG Systems, Full-Stack Development, Research Collaborations
+
+**📍 Location:** Chemnitz, Germany  
+**🕒 Availability:** 20 hours/week for working student positions
+
+<i>Building the future, one intelligent system at a time ✨</i>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
